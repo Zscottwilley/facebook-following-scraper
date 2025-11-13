@@ -1,0 +1,3 @@
+# Sample list of Facebook profile URLs for the Facebook Following Scraper.
+# Each non-empty, non-comment line is treated as a profile URL.
+https://www.facebook.com/UncutMagazine
