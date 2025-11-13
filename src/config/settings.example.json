@@ -1,0 +1,7 @@
+{
+  "input_file": "data/inputs.sample.txt",
+  "output_file": "data/sample.json",
+  "output_format": "json",
+  "max_items": 100,
+  "log_level": "INFO"
+}
