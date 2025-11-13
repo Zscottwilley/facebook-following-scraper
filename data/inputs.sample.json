@@ -1,0 +1,8 @@
+[
+  {
+    "name": "uncut_magazine_following",
+    "url": "https://www.facebook.com/UncutMagazine/following",
+    "maxItems": 100,
+    "exportFormats": ["json", "csv", "excel", "html", "xml"]
+  }
+]
